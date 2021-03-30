@@ -6,4 +6,4 @@
 new-notebook.ipynb
 metadata.txt
 _packages
-
+__pycache__
